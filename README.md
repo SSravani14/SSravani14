@@ -17,7 +17,7 @@ I'm a passionate **Software Engineer** with experience in **Full-Stack Developme
 **Tools & Frameworks:** Power BI, Informatica, Hadoop, Spark, Kafka, RabbitMQ, Figma  
 
 ### 📌 Current Goals
-- 🔹 Secure a **full-time software engineering role**
+- 🔹 Actively looking for **full-time software engineering opportunities**.
 - 🔹 Build innovative **AI-powered solutions** for small businesses
 - 🔹 Enhance my **AWS and System Design** skills
 
