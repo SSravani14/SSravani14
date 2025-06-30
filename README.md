@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Sravani Siddanthapu
+## Hi there! 👋 I'm Sravani
 
 I'm a passionate **Software Engineer** with experience in **Full-Stack Development**, specializing in **Front-End Development (Angular, React, TypeScript, HTML, CSS, SCSS)** and **Back-End Development (Java, Spring Boot, Microservices, REST APIs)**.
 ### 🚀 About Me
