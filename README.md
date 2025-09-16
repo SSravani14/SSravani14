@@ -5,7 +5,7 @@ I'm a passionate **Software Engineer** with experience in **Full-Stack Developme
 - 🌱 I’m currently learning **AWS, Cloud Computing, and Advanced DSA**.
 - 👯 I’m looking to collaborate on **Full-Stack Projects, AI/ML applications, and Startup Tech Solutions**.
 - 💬 Ask me about **Front-End Development, Data Structures & Algorithms, and Software Engineering**.
-- 📫 How to reach me: [Email](mailto:siddanthapusravani@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sravani-siddanthapu/)
+- 📫 How to reach me: [Email](mailto:siddanthapusravani@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sravanisiddanthapu/)
 - ⚡ Fun fact: I love exploring **new technologies** and working on **innovative ideas** that solve real-world problems!
 
 ### 🛠️ Tech Stack
