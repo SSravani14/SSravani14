@@ -8,6 +8,9 @@ I'm a passionate **Software Engineer** with experience in **Full-Stack Developme
 - 📫 How to reach me: [Email](mailto:siddanthapusravani@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sravanisiddanthapu/)
 - ⚡ Fun fact: I love exploring **new technologies** and working on **innovative ideas** that solve real-world problems!
 
+### 🌐 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santhureddie&layout=compact&theme=radical)
+
 ### 🛠️ Tech Stack
 **Languages:** Java, TypeScript, JavaScript, Python, SQL  
 **Front-End:** Angular, React, HTML, CSS, SCSS, Bootstrap, Tailwind CSS  
