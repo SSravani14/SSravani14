@@ -9,7 +9,7 @@ I'm a passionate **Software Engineer** with experience in **Full-Stack Developme
 - ⚡ Fun fact: I love exploring **new technologies** and working on **innovative ideas** that solve real-world problems!
 
 ### 🌐 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santhureddie&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SSravani14&layout=compact&theme=radical)
 
 ### 🛠️ Tech Stack
 **Languages:** Java, TypeScript, JavaScript, Python, SQL  
