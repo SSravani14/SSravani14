@@ -64,8 +64,8 @@ Welcome to my GitHub profile! I’m passionate about building **real-time conver
 
 ## 📫 Let’s Connect!  
 - 🌐 [Portfolio](https://ssravani14.github.io/portfolio/) 
-- 💼 [LinkedIn](https://www.linkedin.com/in/sravani-siddanthapu)  
-- 🐙 [GitHub](https://github.com/ssravani0525)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sravanisiddanthapu)  
+- 🐙 [GitHub](https://github.com/ssravani14)  
 - ✉️ ssravani0525@gmail.com  
 
 ---
