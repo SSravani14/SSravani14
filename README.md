@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I’m passionate about building **real-time conver
 - Node.js | Express.js | PostgreSQL | REST APIs  
 
 **Voice AI & AI Technologies**  
-- OpenAI (LLMs) | AssemblyAI (STT) | ElevenLabs (TTS) | Vapi | Voiceflow  
+- OpenAI (LLMs) | AssemblyAI (STT) | ElevenLabs (TTS) | Voiceflow  
 
 **Cloud & DevOps**  
 - Oracle Cloud Infrastructure (OCI) | Docker | Kubernetes | Redis  
