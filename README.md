@@ -1,29 +1,73 @@
-## Hi there! 👋 I'm Sravani
+# 👋 Hi, I’m Sravani Siddanthapu  
 
-I'm a passionate **Software Engineer** with experience in **Full-Stack Development**, specializing in **Front-End Development (Angular, React, TypeScript, HTML, CSS, SCSS)** and **Back-End Development (Java, Spring Boot, Microservices, REST APIs)**.
-### 🚀 About Me
-- 🌱 I’m currently learning **AWS, Cloud Computing, and Advanced DSA**.
-- 👯 I’m looking to collaborate on **Full-Stack Projects, AI/ML applications, and Startup Tech Solutions**.
-- 💬 Ask me about **Front-End Development, Data Structures & Algorithms, and Software Engineering**.
-- 📫 How to reach me: [Email](mailto:siddanthapusravani@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sravanisiddanthapu/)
-- ⚡ Fun fact: I love exploring **new technologies** and working on **innovative ideas** that solve real-world problems!
-
-### 🌐 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SSravani14&layout=compact&theme=radical)
-
-### 🛠️ Tech Stack
-**Languages:** Java, TypeScript, JavaScript, Python, SQL  
-**Front-End:** Angular, React, HTML, CSS, SCSS, Bootstrap, Tailwind CSS  
-**Back-End:** Spring Boot, Microservices, REST APIs, Node.js  
-**Databases:** MySQL, PostgreSQL, MongoDB, Teradata  
-**Cloud & DevOps:** AWS (EC2, S3, Lambda), Docker, Kubernetes  
-**Tools & Frameworks:** Power BI, Informatica, Hadoop, Spark, Kafka, RabbitMQ, Figma  
-
-### 📌 Current Goals
-- 🔹 Actively looking for **full-time software engineering opportunities**.
-- 🔹 Build innovative **AI-powered solutions** for small businesses
-- 🔹 Enhance my **AWS and System Design** skills
-
+Welcome to my GitHub profile! I’m passionate about building **real-time conversational voice assistants** that make technology more natural and human. 
+- Currently, I’m developing a **Real-Time Conversational Voice Assistant** that integrates **speech recognition (STT), large language models (LLMs), and speech synthesis (TTS)** to achieve low-latency, human-like interactions.  
+- In parallel, I’m expanding my expertise in **Oracle Cloud Infrastructure (OCI)** to design, deploy, and scale modern applications on the cloud.  
 
 ---
-🚀 Let's connect and build something amazing together! 😊
+
+## 🔊 About Me  
+
+### 🎙️ Voice Technology  
+- Focused on **real-time conversational AI**  
+- Building systems with **STT → LLM → TTS** pipelines  
+- Exploring **Voiceflow, Vapi, AssemblyAI, ElevenLabs, and OpenAI** for production-ready assistants  
+- Goal: Create **scalable, low-latency voice-first applications**  
+
+### ☁️ Cloud (OCI)  
+- Completed **OCI Foundations Associate Certification** ✅  
+- Currently learning **OCI Gen AI, storage, compute, and networking services**  
+- Using OCI to **deploy and manage cloud-native AI applications**  
+- Goal: Become proficient in **cloud solutions for AI workloads**  
+
+---
+
+## 🧩 Tech Stack & Tools  
+
+**Frontend Development**  
+- React.js | Next.js | TypeScript | Tailwind CSS | Radix UI  
+
+**Backend Development**  
+- Node.js | Express.js | PostgreSQL | REST APIs  
+
+**Voice AI & AI Technologies**  
+- OpenAI (LLMs) | AssemblyAI (STT) | ElevenLabs (TTS) | Vapi | Voiceflow  
+
+**Cloud & DevOps**  
+- Oracle Cloud Infrastructure (OCI) | Docker | Kubernetes | Redis  
+
+**Other Tools**  
+- GitHub | VS Code | Postman | Figma  
+
+---
+
+## 📜 Certifications  
+- ✅ **OCI Foundations Associate** – *Oracle Certified*  
+
+---
+
+## 🚀 Current Projects  
+- **🗣️ Real-Time Conversational Voice Assistant**  
+   - End-to-end voice pipeline with **STT → LLM → TTS**  
+   - Built with **React, Node.js, OpenAI, AssemblyAI, ElevenLabs, and OCI**  
+   - Optimized for **sub-400ms latency** for natural real-time conversations  
+
+---
+
+## 📈 Goals for 2025  
+- Launch a **production-ready Voice AI product** 🚀  
+- Contribute to **open-source voice technology projects**  
+- Advance OCI expertise with **specialist-level certifications**  
+- Participate and win in **AI & Cloud Hackathons**  
+
+---
+
+## 📫 Let’s Connect!  
+- 🌐 [Portfolio](https://ssravani14.github.io/portfolio/) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/sravani-siddanthapu)  
+- 🐙 [GitHub](https://github.com/ssravani0525)  
+- ✉️ ssravani0525@gmail.com  
+
+---
+
+✨ *“I believe voice is the most natural interface, and I’m on a mission to make technology more human with Voice AI.”*  
