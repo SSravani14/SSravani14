@@ -47,10 +47,11 @@ Welcome to my GitHub profile! I’m passionate about building **real-time conver
 ---
 
 ## 🚀 Current Projects  
-- **🗣️ Real-Time Conversational Voice Assistant**  
-   - End-to-end voice pipeline with **STT → LLM → TTS**  
-   - Built with **React, Node.js, OpenAI, AssemblyAI, ElevenLabs, and OCI**  
-   - Optimized for **sub-400ms latency** for natural real-time conversations  
+### 🛠️ Recent Project: AI-Powered Voice Assistant for Automotive Service Centers  
+- ⚡ Built a **real-time conversational AI assistant** with React, Flask, LiveKit, and OpenAI, enabling natural language customer support with ultra-low latency voice streaming.  
+- 🗂️ Integrated **intelligent agent capabilities**: vehicle profile management (VIN lookup, profile creation), database interaction, and dynamic conversational flow with context preservation.  
+- 🔐 Designed for **scalability and security**: token-based access with session isolation, concurrency handling, and SIP telephony readiness for future call center integration.  
+
 
 ---
 
