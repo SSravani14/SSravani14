@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I’m passionate about building **real-time conver
 ---
 
 ## 📜 Certifications  
-- ✅ **OCI Foundations Associate** – *Oracle Certified*  
+- ✅ **OCI Foundations Associate** – [*Oracle Certified*](https://catalog-education.oracle.com/ords/certview/sharebadge?id=3ED78E4F45A9454E15B803DF518130ADC54F7F4EAE2EBFA171B06AB17E1B0A97)  
 
 ---
 
